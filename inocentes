@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Día de los Inocentes</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #3498db;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        img {
+            width: 300px; /* Ajusta el tamaño de la imagen según sea necesario */
+        }
+    </style>
+</head>
+<body>
+    <h1>Feliz Día de los Inocentes</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" alt="Trollface">
+</body>
+</html>
