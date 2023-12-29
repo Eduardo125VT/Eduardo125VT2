@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Subir mi página de Día de los Inocentes"
+git remote add origin <https://github.com/Eduardo125VT/Eduardo125VT2.git>
+git push -u origin master
